@@ -2,7 +2,7 @@
 <h1 align="center">Olá, meu nome é Rafael 👋</h1>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-cleber&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-cleber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-cleber&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -23,5 +23,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael__cleber) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEULINK)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelcleber@hotmail.com)
