@@ -1,13 +1,8 @@
 
 <h1 align="center">Olá, meu nome é Rafael 👋</h1>
 
-<p align="center">
-  <img height="200" 
-       src="https://github-readme-stats.vercel.app/api?username=rafael-cleber&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  
-  <img height="200"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-cleber&layout=compact&langs_count=7&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafael-cleber&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-cleber&layout=compact&theme=radical)
 
 ---
 
