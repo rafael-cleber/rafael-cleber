@@ -1,32 +1,26 @@
 
 <h1 align="center">Olá, meu nome é Rafael 👋</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 2px; flex-wrap: wrap;">
-
-  <!-- Caixa Stats -->
+<p align="center">
   <img height="200" 
-       src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=rafael-cleber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-       />
-
-  <!-- Caixa Linguagens -->
+       src="https://github-readme-stats.vercel.app/api?username=rafael-cleber&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
   <img height="200"
-       src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=rafael-cleber&layout=compact&langs_count=7&theme=radical"
-       />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-cleber&layout=compact&langs_count=7&theme=radical" />
+</p>
 
-</div>
-
-
-
+---
 
 ### 🚀 Tecnologias
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30"/>
+</p>
+
 
 
 <br/>
